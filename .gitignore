@@ -1,0 +1,5 @@
+venv/
+**/.dart_tool/
+**/build/
+**/*.log
+.idea/
